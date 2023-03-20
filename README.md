@@ -1,2 +1,2 @@
 test-git-lfs
-test for a pr
+test for a PR
